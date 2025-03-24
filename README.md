@@ -32,7 +32,7 @@ The dataset used in this project comes from **Anki's Spanish-English dataset**, 
 ### Tools & Frameworks  
 - **TensorFlow/Keras** for model training and experimentation.  
 - **NumPy & Pandas** for data processing and analysis.  
-- **Matplotlib & Seaborn** for visualizing model performance and attention weights.  
+- **Matplotlib** for visualizing model performance and attention weights.  
 - **Docker & AWS** for deployment and scalability.  
 
 This project is a hands-on learning experience to strengthen my understanding of machine translation, attention mechanisms, and deep learning frameworks. It also serves as a portfolio piece showcasing my ability to implement and experiment with modern NMT techniques.
